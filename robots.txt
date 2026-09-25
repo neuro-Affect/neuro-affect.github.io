@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://neuro-affect.github.io/sitemap.xml
