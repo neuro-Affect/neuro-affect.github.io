@@ -15,3 +15,10 @@
 .join-imagery{margin:0 0 28px}.join-imagery img{width:100%;max-width:870px}
 
 .project-status{display:inline-block;font-size:14px;color:var(--blue);border-bottom:1px solid #b9cce3;padding-bottom:4px;margin:0 0 14px!important}.bci-introduction{display:grid;grid-template-columns:minmax(0,1fr) 168px;gap:30px;align-items:start}.bci-introduction figure{margin-top:17px}.bci-introduction figcaption{font-size:12px}.project-sketch{margin:28px 0}.project-sketch img{width:100%;height:auto}.project-sketch figcaption{max-width:720px}@media(max-width:600px){.bci-introduction{grid-template-columns:1fr}.bci-introduction figure{margin-top:0}.project-sketch{margin:24px 0}}
+
+/* Extracted inline layout rules allow a strict style policy. */
+.layout-c25927c85f{width:52px;height:52px;object-fit:contain;flex-shrink:0}
+.layout-30612f040c{width:52px;height:52px;object-fit:contain}
+.layout-d1ea4ad272{position: fixed; inset: 0px; pointer-events: none; z-index: 2147483647;}
+.layout-ca25ce9ca4{margin:24px 0 30px}
+.layout-08ac4f0c53{width:100%;height:auto}
