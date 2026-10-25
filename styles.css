@@ -22,3 +22,6 @@
 .layout-d1ea4ad272{position: fixed; inset: 0px; pointer-events: none; z-index: 2147483647;}
 .layout-ca25ce9ca4{margin:24px 0 30px}
 .layout-08ac4f0c53{width:100%;height:auto}
+
+/* Keep the complete recruitment poster readable without cropping. */
+.recruitment-poster{max-width:680px;margin:0 auto}.recruitment-poster img{width:100%;height:auto}
