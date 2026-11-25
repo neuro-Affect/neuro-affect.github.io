@@ -25,3 +25,6 @@
 
 /* Keep the complete recruitment poster readable without cropping. */
 .recruitment-poster{max-width:680px;margin:0 auto}.recruitment-poster img{width:100%;height:auto}
+
+/* Gentle display brightening preserves the original portrait. */
+.ra-portrait{filter:brightness(1.12) saturate(1.06);width:206px;max-width:100%;height:auto}
